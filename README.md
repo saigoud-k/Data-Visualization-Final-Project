@@ -39,3 +39,30 @@ This information helps analyze prescription distribution across different pharma
 - Jupyter Notebook
 
 ## Project Structure
+Medication-Fulfillment-Visualization
+│
+├── Week8 - Sai Goud Koyyala.ipynb
+├── Medication Fulfillment.csv
+└── README.md
+
+## How to Run
+
+1. Clone the repository
+2. Install required libraries
+3. Open the Jupyter Notebook
+
+
+
+4. Run **Week8 - Sai Goud Koyyala.ipynb**
+
+## Key Insights
+
+- Some pharmacies handle a higher number of prescriptions than others.
+- A small number of medications dominate the prescription counts.
+- Prescription activity varies across months.
+- Most medication supplies fall within a consistent range of days.
+
+## Author
+
+Sai Goud Koyyala  
+Data Science Student
