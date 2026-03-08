@@ -38,12 +38,6 @@ This information helps analyze prescription distribution across different pharma
 - Matplotlib
 - Jupyter Notebook
 
-## Project Structure
-Medication-Fulfillment-Visualization
-│
-├── Week8 - Sai Goud Koyyala.ipynb
-├── Medication Fulfillment.csv
-└── README.md
 
 ## How to Run
 
